@@ -64,3 +64,124 @@
     display: inline-block;
     padding: 5px;
 }
+
+/* Nosotros */
+
+.nav-nosotros{
+    background-color: azure ;
+    color:rgb(35, 37, 42);
+    text-transform: uppercase;
+    box-shadow:  2px 2px 15px rgb(115, 115, 116);
+}
+.nav-nosotros a{
+    color:rgb(35, 37, 42);
+    text-decoration: none;
+}
+.nav-nosotros li {
+    list-style-type: none ; 
+} 
+.edit-1{
+    color: blue ;
+}
+.edit-2{
+    color: blue;
+}
+.edit-3{
+    color: blue;   
+}
+.article-nos{
+    text-align: center;
+}
+
+
+
+
+/* Blog */
+.blog{
+    /* color: rgb(122, 126, 123); */
+}
+.nav-blog{
+    background-color:azure ;
+    color:rgb(35, 37, 42);
+    text-transform: uppercase;
+    box-shadow:  2px 2px 15px rgb(115, 115, 116);
+}
+.nav-blog a{
+    color:rgb(35, 37, 42);
+    text-decoration: none;
+}
+.nav-blog li{
+    list-style-type: none ;
+    /* font-family: sans-serif; */
+}
+
+
+
+/* Servcios */
+
+.servicios{
+    color: rgb(122, 126, 123);
+}
+.nav-servicios{
+    background-color:rgb(226, 241, 226) ;
+    color:rgb(39, 75, 238);
+    text-transform: uppercase;
+    box-shadow:  2px 2px 15px rgb(115, 115, 116);
+}
+.nav-servicios a{
+    color:rgb(39, 75, 238);
+    text-decoration: none;
+}
+.nav-servicios li{
+    list-style-type: none ;
+    font-family: sans-serif;
+}
+.edit-4{
+    color: blue;
+}
+.bienvenidos-2{
+    text-align: center;
+}
+.filosofia{
+    color: blue;
+}
+.vision-tecno{
+   color: blue;
+}
+.servicios-web{
+    color: blue;
+}
+
+
+
+
+
+/* Contacto */
+.contacto{
+    color: rgb(122, 126, 123);
+}
+.nav-contacto{
+    background-color:azure ;
+    color:rgb(35, 37, 42);
+    text-transform: uppercase;
+    box-shadow:  2px 2px 15px rgb(115, 115, 116);
+}
+.nav-contacto a{
+    color:rgb(35, 37, 42);
+    text-decoration: none;
+}
+.nav-contacto li{
+    list-style-type: none ;
+    /* font-family: sans-serif; */
+}
+/* Main */
+
+.main img{
+    width: 750px;
+ }
+.bienvenidos{
+    text-align: center;
+}
+.edit{
+    color: blue;
+}
