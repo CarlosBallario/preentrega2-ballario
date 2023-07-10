@@ -221,22 +221,26 @@ color: rgb(107, 114, 181);
 
  /* Footer */
  .footer-index{
-    background-color: rgb(70, 70, 233);
-    margin: 20px;
-    padding: 10px;
+    background-color:rgb(107, 114, 181);
+    /* margin: 20px;
+    padding: 10px; */
     color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center
  }
  .footer-index ul{
     list-style-type: none;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     padding: 5px;
  }
- .footer-index p{
+ .firma{
     text-align: center;
     font-family: 'Tangerine', cursive;  
+    text-align: center; 
  }
  .footer-index li{
-    background-color: rgb(76, 141, 136);
+    /* background-color: rgb(76, 141, 136); */
     padding: 2px;
     display: inline-block;
  }
