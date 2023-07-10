@@ -99,13 +99,13 @@
     list-style-type: none ; 
 } 
 .edit-1{
-    color: blue ;
+    color:rgb(107, 114, 181) ;
 }
 .edit-2{
-    color: blue;
+    color: rgb(107, 114, 181);
 }
 .edit-3{
-    color: blue;   
+    color:rgb(107, 114, 181);   
 }
 .article-nos{
     text-align: center;
@@ -155,19 +155,19 @@
     font-family: sans-serif;
 }
 .edit-4{
-    color: blue;
+    color:rgb(107, 114, 181);
 }
 .bienvenidos-2{
     text-align: center;
 }
 .filosofia{
-    color: blue;
+    color:rgb(107, 114, 181);
 }
 .vision-tecno{
-   color: blue;
+   color: rgb(107, 114, 181);
 }
 .servicios-web{
-    color: blue;
+    color:rgb(107, 114, 181);
 }
 
 
