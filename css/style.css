@@ -218,6 +218,15 @@ margin-top: 20px;
 color: rgb(107, 114, 181);
 }
 
+.main .auto{
+    width: 250px; 
+}
+
+.ayuda{
+    color:  rgb(64, 74, 162);
+    margin-top: 20px; 
+}
+
 
  /* Footer */
  .footer-index{
