@@ -1,0 +1,15 @@
+Buenas tardes.
+ 
+Les comento que tuve un problema con esta entrega, quise pecar de perfeccionista y agregando un arreglo de último momento, se me desconfiguro toda la WEB. 
+La acomodé lo mejor que pude para cumplir con el plazo de la entrega.
+Agregué comentarios en el CSS de las cosas que pienso agregar a medida que vaya aprendiendo, por ejemplo animaciones.
+
+Adjunto el link de 
+Gibhut:
+https://github.com/CarlosBallario/preentrega2-ballario
+
+https://github.com/CarlosBallario/preentrega2-ballario/deployments/activity_log?environment=github-pages
+
+
+
+

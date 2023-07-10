@@ -20,7 +20,7 @@
 .header{
     list-style-type: none;
     text-transform: uppercase;
-    background-color: azure;
+    background-color: rgb(191, 245, 245);
     box-shadow:  2px 2px 15px rgb(115, 115, 116);
     flex-wrap: wrap;
 }
@@ -73,7 +73,7 @@
 
 
 .header-hijo div{
-    background-color: rgb(107, 114, 181); 
+    background-color: rgb(237, 199, 184); 
     /* border: 2px solid; */
     display: flex;
     flex-direction: row;
@@ -230,7 +230,7 @@ color: rgb(107, 114, 181);
 
  /* Footer */
  .footer-index{
-    background-color:rgb(107, 114, 181);
+    background-color: rgb(237, 199, 184);
     /* margin: 20px;
     padding: 10px; */
     color: white;
