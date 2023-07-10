@@ -115,9 +115,7 @@
 
 
 /* Blog */
-.blog{
-    /* color: rgb(122, 126, 123); */
-}
+
 .nav-blog{
     background-color:azure ;
     color:rgb(35, 37, 42);
@@ -215,6 +213,10 @@
     color: rgb(107, 114, 181);
 }
 
+.main h3{
+margin-top: 20px;
+color: rgb(107, 114, 181);
+}
 
 
  /* Footer */
