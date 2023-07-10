@@ -25,7 +25,7 @@
 }
 .header a{
     text-decoration: none;
-    
+    color:rgb(35, 37, 42);
 } 
 .correo{
     font-family: 'Ubuntu', sans-serif;
@@ -64,6 +64,10 @@
     display: inline-block;
     padding: 5px;
 }
+
+/* Header - Index */
+
+
 
 /* Nosotros */
 
@@ -123,13 +127,13 @@
     color: rgb(122, 126, 123);
 }
 .nav-servicios{
-    background-color:rgb(226, 241, 226) ;
-    color:rgb(39, 75, 238);
+    background-color:azure ;
+    /* color:rgb(39, 75, 238); */
     text-transform: uppercase;
     box-shadow:  2px 2px 15px rgb(115, 115, 116);
 }
 .nav-servicios a{
-    color:rgb(39, 75, 238);
+    color:rgb(35, 37, 42);
     text-decoration: none;
 }
 .nav-servicios li{
