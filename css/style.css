@@ -253,3 +253,16 @@ color: rgb(107, 114, 181);
     padding: 2px;
     display: inline-block;
  }
+
+
+ .nav-link:hover{
+    background-color: rgb(222, 241, 235);
+    border-radius: 12px;  
+}
+
+.redes-sociales a:hover{
+    color: blanchedalmond;
+}
+.dropdown-menu a:hover{
+    text-decoration: underline;
+}
